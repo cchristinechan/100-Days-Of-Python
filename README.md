@@ -36,7 +36,7 @@
 - Day 23: The Turtle Crossing Capstone Project
 - Day 24: Files, Directories and Paths
 - Day 25: Working with CSV Data and the Pandas Library
-- Day 26: List Comprehension and the Nato Alphabet
+- Day 26: List Comprehension and the NATO Alphabet
 - Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
 - Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - Day 29: Building a Password Manager GUI App with Tkinter
@@ -47,7 +47,7 @@
 - Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
 - Day 34: API Practice - Creating a GUI Quiz App
-- Day 35: Keys, Authentication & Environment Variables - Telegram Rain Notifier
+- Day 35: Keys, Authentication & Environment Variables: Send SMS
 - Day 36: Stock Trading News Alert Project
 - Day 37: Habit Tracking Project: API Post Requests & Headers
 - Day 38: Workout Tracking Using Google Sheets
@@ -84,39 +84,39 @@
 - Day 67: Blog Capstone Project Part 3 - RESTful Routing
 - Day 68: Authentication with Flask
 - Day 69: Blog Capstone Project Part 4 - Adding Users
-- Day 70: Deploying Your Web Application with Heroku
-- Day 71: Data Exploration with Pandas: College Major vs. Your Salary
-- Day 72: Data Visualisation with Matplotlib: Programming Languages
-- Day 73: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
-- Day 74: Google Trends Data: Resampling and Visualising Time Series
-- Day 75: Beautiful Plotly Charts & Analysing the Android App Store
-- Day 76: Computation with NumPy and N-Dimensional Arrays
-- Day 77: Linear Regression and Data Visualisation with Seaborn
-- Day 78: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
-- Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
-- Day 80: Capstone Project - Predict House Prices
+- Day 70: Git, Github and Version Control
+- Day 71: Deploying Your Web Application
+- Day 72: Data Exploration with Pandas: College Major v.s. Your Salary
+- - Day 73: Data Visualisation with Matplotlib: Programming Languages
+- Day 74: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
+- Day 75: Google Trends Data: Resampling and Visualising Time Series
+- Day 76: Beautiful Plotly Charts & Analysing the Android App Store
+- Day 77: Computation with NumPy and N-Dimensional Arrays
+- Day 78: Linear Regression and Data Visualisation with Seaborn
+- Day 79: Analysing the Nobel Prize with Plotly, Matplotlib & Seaborn
+- Day 80: The Tragic Discovery of Handwashing: t-Tests & Distributions
+- Day 81: Capstone Project - Predict House Prices
 
 ## 👩‍💻Professional
-- Day 81: Text to Morse Code Converter
-- Day 82: Portfolio Website
-- Day 83: Tic Tac Toe
-- Day 84: Image Watermarking Desktop App
-- Day 85: Typing Speed Test App
-- Day 86: Breakout: The Famous Arcade Game
-- Day 87: Cafe and Wifi Website
-- Day 88: To Do Agenda App
-- Day 89: Disappearing Text Writing App
-- Day 90: Convert PDF to Audiobook
-- Day 91: Image to Color List
-- Day 92: Amazon Canada Web Scraper
-- Day 93: Google Dinosaur Game Bot
-- Day 94: Space Invaders
-- Day 95: Custom API
-- Day 96: An Online Shop
-- Day 97: Percentage Calculator
-- Day 98: Analyzing and Visualizing the Space Race
-- Day 99: Analyzing Deaths Involving Police in the United States
-- Day 100: Predicting Earnings using Multivariable Regression
+- Day 82: Text to Morse Code Converter
+- Day 83: Portfolio Website
+- Day 84: Tic Tac Toe
+- Day 85: Image Watermarking Desktop App
+- Day 86: Typing Speed Test App
+- Day 87: Breakout: The Famous Arcade Game
+- Day 88: Cafe and Wifi Website
+- Day 89: To Do List
+- Day 90: Disappearing Text Writing App
+- Day 91: Convert PDF to Audiobook
+- Day 92: Image Colour Palette Generator
+- Day 93: Custom Web Scraper
+- Day 94: Automate the Google Dinosaur Game
+- Day 95: Space Invaders
+- Day 96: Custom API Based Website
+- Day 97: An Online Shop
+- Day 98: Custom Automation
+- Day 99: Analyse and Visualise the Space Race
+- Day 100: Analyse Deaths Involving Police in the United States
 
 ## 🛠️Tools and Technologies
 - Python 3 - the latest version of Python
