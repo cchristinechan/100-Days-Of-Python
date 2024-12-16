@@ -9,7 +9,7 @@
 - Professional - Days 82 - 100
 
 ## 🌱Beginner
-- Day 1: Working with Variables in Python to Manage Data
+- [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
 - Day 2: Understanding Data Types and How to Manipulate Strings
 - Day 3: Control Flow and Logical Operators
 - Day 4: Randomisation and Python Lists
