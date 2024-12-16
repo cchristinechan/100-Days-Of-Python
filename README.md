@@ -1,14 +1,14 @@
 # 💻100 Days of Code: The Complete Python Pro Bootcamp
 [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) (taught by Angela Yu)
 
-# 📄Sections
+## 📄Sections
 - Beginner - Days 1 - 14
 - Intermediate - Days 15 - 31
 - Intermediate+ - Days 32 - 58
 - Advanced - Days 59 - 81
 - Professional - Days 82 - 100
 
-# 🌱Beginner
+## 🌱Beginner
 - Day 1: Working with Variables in Python to Manage Data
 - Day 2: Understanding Data Types and How to Manipulate Strings
 - Day 3: Control Flow and Logical Operators
@@ -24,7 +24,7 @@
 - Day 13: Debugging: How to Find and Fix Errors in your Code
 - Day 14: Higher Lower Game Project
 
-# 📖Intermediate
+## 📖Intermediate
 - Day 15: Local Development Environment Setup & the Coffee Machine
 - Day 16: Object Oriented Programming (OOP)
 - Day 17: The Quiz Project & The Benefits of OOP
@@ -43,7 +43,7 @@
 - Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 - Day 31: Flash Card App Capstone Project
 
-# 📚Intermediate+
+## 📚Intermediate+
 - Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
 - Day 34: API Practice - Creating a GUI Quiz App
@@ -72,7 +72,7 @@
 - Day 57: Templating with Jinja in Flask Applications
 - Day 58: Web Foundation Boostrap
 
-# ⚙️Advanced
+## ⚙️Advanced
 - Day 59: Blog Capstone Project Part 2 - Adding Styling
 - Day 60: Make POST Requests with Flask and HTML Forms
 - Day 61: Building Advanced Forms with Flask-WTForms
@@ -96,7 +96,7 @@
 - Day 79: The Tragic Discovery of Handwashing: t-Tests & Distributions
 - Day 80: Capstone Project - Predict House Prices
 
-# 👩‍💻Professional
+## 👩‍💻Professional
 - Day 81: Text to Morse Code Converter
 - Day 82: Portfolio Website
 - Day 83: Tic Tac Toe
@@ -118,7 +118,7 @@
 - Day 99: Analyzing Deaths Involving Police in the United States
 - Day 100: Predicting Earnings using Multivariable Regression
 
-# 🛠️Tools and Technologies
+## 🛠️Tools and Technologies
 - Python 3 - the latest version of Python
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
