@@ -153,5 +153,5 @@
 - SQLite
 - PostgreSQL
 - Authentication
-- Web Design#
+- Web Design
 - Deployment with GitHub Pages, Heroku and GUnicorn
