@@ -90,7 +90,7 @@ This repository contains all completed projects by Christine Chan for the comple
 - Day 70: Git, Github and Version Control
 - Day 71: Deploying Your Web Application
 - Day 72: Data Exploration with Pandas: College Major v.s. Your Salary
-- - Day 73: Data Visualisation with Matplotlib: Programming Languages
+- Day 73: Data Visualisation with Matplotlib: Programming Languages
 - Day 74: Aggregate & Marge Data with Pandas: Analyse the Lego Dataset
 - Day 75: Google Trends Data: Resampling and Visualising Time Series
 - Day 76: Beautiful Plotly Charts & Analysing the Android App Store
