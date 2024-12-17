@@ -26,7 +26,7 @@ README.md
 - [Professional](#professional) Days 82 - 100
 - [Tools and Technologies](#%EF%B8%8Ftools-and-technologies)
 
-## 🌱Beginner
+### 🌱Beginner
 - [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%202) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%203) Control Flow and Logical Operators
@@ -42,7 +42,7 @@ README.md
 - Day 13: Debugging: How to Find and Fix Errors in your Code
 - Day 14: Higher Lower Game Project
 
-## 📖Intermediate
+### 📖Intermediate
 - Day 15: Local Development Environment Setup & the Coffee Machine
 - Day 16: Object Oriented Programming (OOP)
 - Day 17: The Quiz Project & The Benefits of OOP
@@ -61,7 +61,7 @@ README.md
 - Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 - Day 31: Flash Card App Capstone Project
 
-## 📚Intermediate+
+### 📚Intermediate+
 - Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
 - Day 34: API Practice - Creating a GUI Quiz App
@@ -90,7 +90,7 @@ README.md
 - Day 57: Templating with Jinja in Flask Applications
 - Day 58: Web Foundation Boostrap
 
-## ⚙️Advanced
+### ⚙️Advanced
 - Day 59: Blog Capstone Project Part 2 - Adding Styling
 - Day 60: Make POST Requests with Flask and HTML Forms
 - Day 61: Building Advanced Forms with Flask-WTForms
@@ -115,7 +115,7 @@ README.md
 - Day 80: The Tragic Discovery of Handwashing: t-Tests & Distributions
 - Day 81: Capstone Project - Predict House Prices
 
-## 👩‍💻Professional
+### 👩‍💻Professional
 - Day 82: Text to Morse Code Converter
 - Day 83: Portfolio Website
 - Day 84: Tic Tac Toe
@@ -136,7 +136,7 @@ README.md
 - Day 99: Analyse and Visualise the Space Race
 - Day 100: Analyse Deaths Involving Police in the United States
 
-## 🛠️Tools and Technologies
+### 🛠️Tools and Technologies
 - Python 3 - the latest version of Python
 - PyCharm, Jupyter Notebook, Google Colab
 - Python Scripting and Automation
