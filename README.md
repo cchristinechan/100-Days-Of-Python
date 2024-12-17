@@ -8,12 +8,9 @@ Welcome to this repository which contains all completed projects by Christine Ch
 The repository is organised as follows:
 
 ```
-Day 01/
+Day 1/
   - README.md
   - d1-solution.py
-Day 02/
-  - README.md
-  - d2-solution.py
 ... (one folder per day)
 README.md
 ```
