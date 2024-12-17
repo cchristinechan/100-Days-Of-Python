@@ -1,5 +1,8 @@
 # 💻100 Days of Code: The Complete Python Pro Bootcamp
-[100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) (taught by Angela Yu)
+This repository contains all completed projects by Christine Chan for the completion of the [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) taught by Angela Yu.
+
+![cover-python-bootcamp](https://github.com/user-attachments/assets/69effde2-1ccd-44ab-8750-dff47094f598)
+
 
 ## 📄Sections
 - Beginner - Days 1 - 14
@@ -11,7 +14,7 @@
 ## 🌱Beginner
 - [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%202) Understanding Data Types and How to Manipulate Strings
-- Day 3: Control Flow and Logical Operators
+- [Day 3:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%203) Control Flow and Logical Operators
 - Day 4: Randomisation and Python Lists
 - Day 5: Python Loops
 - Day 6: Python Functions & Karel
