@@ -1,15 +1,33 @@
 # 💻100 Days of Code: The Complete Python Pro Bootcamp
-This repository contains all completed projects by Christine Chan for the completion of the [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) taught by Angela Yu.
+Welcome to this repository which contains all completed projects by Christine Chan for the completion of the [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) taught by Angela Yu.
 
 ![cover-python-bootcamp](https://github.com/user-attachments/assets/69effde2-1ccd-44ab-8750-dff47094f598)
 
+## Structure of the Repository
+
+The repository is organised as follows:
+
+```
+Day 01/
+  - README.md
+  - d1-solution.py
+Day 02/
+  - README.md
+  - d2-solution.py
+... (one folder per day)
+README.md
+```
+
+### Folder Content
+- README.md: contains a description/prompt for the daily project along with concepts practised.
+- solution.py: includes my solution for the project with comments.
 
 ## 📄Sections
-- Beginner - Days 1 - 14
-- Intermediate - Days 15 - 31
-- Intermediate+ - Days 32 - 58
-- Advanced - Days 59 - 81
-- Professional - Days 82 - 100
+- [Beginner](https://github.com/cchristinechan/100-Days-Of-Python/edit/main/README.md#beginner) Days 1 - 14
+- [Intermediate](https://github.com/cchristinechan/100-Days-Of-Python/edit/main/README.md#intermediate) Days 15 - 31
+- [Intermediate+](https://github.com/cchristinechan/100-Days-Of-Python/edit/main/README.md#intermediate-1) Days 32 - 58
+- [Advanced](https://github.com/cchristinechan/100-Days-Of-Python/edit/main/README.md#%EF%B8%8Fadvanced) Days 59 - 81
+- [Professional](https://github.com/cchristinechan/100-Days-Of-Python/edit/main/README.md#professional) Days 82 - 100
 
 ## 🌱Beginner
 - [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
