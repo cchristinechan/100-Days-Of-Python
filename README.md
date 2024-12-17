@@ -25,7 +25,7 @@ README.md
 - [Beginner](#beginner) Days 1 - 14
 - [Intermediate](#intermediate) Days 15 - 31
 - [Intermediate+](#intermediate-1) Days 32 - 58
-- [Advanced](#advanced) Days 59 - 81
+- [Advanced](#%EF%B8%8Fadvanced) Days 59 - 81
 - [Professional](#professional) Days 82 - 100
 - [Tools and Technologies](#%EF%B8%8Ftools-and-technologies)
 
