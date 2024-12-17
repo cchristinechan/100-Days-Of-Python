@@ -19,11 +19,11 @@ README.md
 - **solution.py:** includes my solution for the project with comments.
 
 ## 📄Sections
-- [Beginner](#beginner) Days 1 - 14
-- [Intermediate](#intermediate) Days 15 - 31
-- [Intermediate+](#intermediate-1) Days 32 - 58
-- [Advanced](#%EF%B8%8Fadvanced) Days 59 - 81
-- [Professional](#professional) Days 82 - 100
+- [Beginner](#beginner) (Days 1 - 14)
+- [Intermediate](#intermediate) (Days 15 - 31)
+- [Intermediate+](#intermediate-1) (Days 32 - 58)
+- [Advanced](#%EF%B8%8Fadvanced) (Days 59 - 81)
+- [Professional](#professional) (Days 82 - 100)
 - [Tools and Technologies](#%EF%B8%8Ftools-and-technologies)
 
 ### 🌱Beginner
