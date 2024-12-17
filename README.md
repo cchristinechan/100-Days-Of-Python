@@ -26,8 +26,9 @@ README.md
 - [Beginner](#beginner) Days 1 - 14
 - [Intermediate](#intermediate) Days 15 - 31
 - [Intermediate+](#intermediate-1) Days 32 - 58
-- [Advanced](advanced) Days 59 - 81
+- [Advanced](#advanced) Days 59 - 81
 - [Professional](#professional) Days 82 - 100
+- [Tools and Technologies](#tools-and-technologies)
 
 ## 🌱Beginner
 - [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
