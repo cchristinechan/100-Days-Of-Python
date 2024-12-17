@@ -3,7 +3,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 
 ![cover-python-bootcamp](https://github.com/user-attachments/assets/69effde2-1ccd-44ab-8750-dff47094f598)
 
-## Structure of the Repository
+## 📂Structure of the Repository
 
 The repository is organised as follows:
 
@@ -17,10 +17,9 @@ Day 02/
 ... (one folder per day)
 README.md
 ```
-
 ### Folder Content
-- README.md: contains a description/prompt for the daily project along with concepts practised.
-- solution.py: includes my solution for the project with comments.
+- **README.md:** contains a description/prompt for the daily project along with concepts practised.
+- **solution.py:** includes my solution for the project with comments.
 
 ## 📄Sections
 - [Beginner](#beginner) Days 1 - 14
