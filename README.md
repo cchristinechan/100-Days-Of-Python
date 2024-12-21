@@ -10,7 +10,8 @@ The repository is organised as follows:
 ```
 Day 1/
   - README.md
-  - d1-solution.py
+  - main_solution.py
+  - other_files.py
 ... (one folder per day)
 README.md
 ```
