@@ -36,7 +36,7 @@ README.md
 - [Day 6:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%206) Python Functions & Karel
 - [Day 7:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%207) Hangman
 - Day 8: Function Parameters & Caesar Cipher
-- Day 9: Dictionaries, Nesting and the Secret Auction
+- [Day 9:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%209) Dictionaries, Nesting and the Secret Auction
 - Day 10: Functions with Outputs
 - Day 11: The Blackjack Capstone Project
 - Day 12: Scope & Number Guessing Game
