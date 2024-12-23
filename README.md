@@ -31,12 +31,12 @@ README.md
 - [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20001) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20002) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20003) Control Flow and Logical Operators
-- [Day 4:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%204) Randomisation and Python Lists
-- [Day 5:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%205) Python Loops
-- [Day 6:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%206) Python Functions & Karel
-- [Day 7:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%207) Hangman
-- [Day 8:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%208) Function Parameters & Caesar Cipher
-- [Day 9:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%209) Dictionaries, Nesting and the Secret Auction
+- [Day 4:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20004) Randomisation and Python Lists
+- [Day 5:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20005) Python Loops
+- [Day 6:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20006) Python Functions & Karel
+- [Day 7:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20007) Hangman
+- [Day 8:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20008) Function Parameters & Caesar Cipher
+- [Day 9:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20009) Dictionaries, Nesting and the Secret Auction
 - Day 10: Functions with Outputs
 - Day 11: The Blackjack Capstone Project
 - Day 12: Scope & Number Guessing Game
