@@ -37,7 +37,7 @@ README.md
 - [Day 7:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20007) Hangman
 - [Day 8:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20008) Function Parameters & Caesar Cipher
 - [Day 9:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20009) Dictionaries, Nesting and the Secret Auction
-- Day 10: Functions with Outputs
+- [Day 10:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20010) Functions with Outputs
 - Day 11: The Blackjack Capstone Project
 - Day 12: Scope & Number Guessing Game
 - Day 13: Debugging: How to Find and Fix Errors in your Code
