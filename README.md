@@ -28,9 +28,9 @@ README.md
 - [Tools and Technologies](#%EF%B8%8Ftools-and-technologies)
 
 ### 🌱Beginner
-- [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%201) Working with Variables in Python to Manage Data
-- [Day 2:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%202) Understanding Data Types and How to Manipulate Strings
-- [Day 3:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%203) Control Flow and Logical Operators
+- [Day 1:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20001) Working with Variables in Python to Manage Data
+- [Day 2:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20002) Understanding Data Types and How to Manipulate Strings
+- [Day 3:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20003) Control Flow and Logical Operators
 - [Day 4:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%204) Randomisation and Python Lists
 - [Day 5:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%205) Python Loops
 - [Day 6:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%206) Python Functions & Karel
