@@ -3,22 +3,6 @@ Welcome to this repository which contains all completed projects by Christine Ch
 
 ![cover-python-bootcamp](https://github.com/user-attachments/assets/69effde2-1ccd-44ab-8750-dff47094f598)
 
-## 📂Structure of the Repository
-
-The repository is organised as follows:
-
-```
-Day 1/
-  - README.md
-  - main_solution.py
-  - other_files.py
-... (one folder per day)
-README.md
-```
-### Folder Content
-- **README.md:** contains a description/prompt for the daily project along with concepts practised.
-- **solution.py:** includes my solution for the project with comments.
-
 ## 📄Sections
 - [Beginner](#beginner) (Days 1 - 14)
 - [Intermediate](#intermediate) (Days 15 - 31)
@@ -41,11 +25,11 @@ README.md
 - [Day 11:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20011) The Blackjack Capstone Project
 - [Day 12:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20012) Scope & Number Guessing Game
 - [Day 13:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20013) Debugging: How to Find and Fix Errors in your Code
-- Day 14: Higher Lower Game Project
+- [Day 14:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20014) Higher Lower Game Project
 
 ### 📖Intermediate
-- Day 15: Local Development Environment Setup & the Coffee Machine
-- Day 16: Object Oriented Programming (OOP)
+- [Day 15:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20015) Local Development Environment Setup & the Coffee Machine
+- [Day 16:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20016) Object Oriented Programming (OOP)
 - Day 17: The Quiz Project & The Benefits of OOP
 - Day 18: Turtle & the Graphical User Interface (GUI)
 - Day 19: Instances, State and Higher Order Functions
