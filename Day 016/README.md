@@ -8,7 +8,7 @@
 5. Process coins. 
 6. Check transaction successful? 
 7. Make Coffee.
-8. 
+   
 ## ▶️Concepts Practised
 - Classes and Objects
 - Constructing Objects and Accessing their Attributes and Methods
