@@ -21,9 +21,6 @@ colour_list = [(171, 158, 33), (99, 6, 51), (75, 94, 173), (232, 209, 73), (10, 
             (215, 89, 34), (105, 123, 210), (26, 96, 40), (33, 103, 47), (113, 131, 212), (184, 116, 161),
             (218, 92, 40)]
 
-# requirements of the program
-# paint a painting with 10 by 10 rows of spots
-# each dot should be 20 in size and spaced by 50
 screen = turtle.Screen()
 tim = turtle.Turtle()
 tim.penup()
