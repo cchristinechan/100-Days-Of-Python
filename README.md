@@ -31,8 +31,8 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 15:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20015) Local Development Environment Setup & the Coffee Machine
 - [Day 16:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20016) Object Oriented Programming (OOP)
 - [Day 17:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20017) The Quiz Project & The Benefits of OOP
-- Day 18: Turtle & the Graphical User Interface (GUI)
-- Day 19: Instances, State and Higher Order Functions
+- [Day 18:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20018) Turtle & the Graphical User Interface (GUI)
+- [Day 19:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20019) Instances, State and Higher Order Functions
 - Day 20: Build the Snake Game Part 1: Animation & Coordinates
 - Day 21: Build the Snake Game Part 2: Inheritance & List Slicing
 - Day 22: Build Pong: The Famous Arcade Game
