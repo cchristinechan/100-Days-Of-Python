@@ -14,8 +14,10 @@ class Player(Turtle):
         self.setheading(90)
         self.return_to_start_pos()
 
+
     def go_up(self):
         self.forward(MOVE_DISTANCE)
+
 
     def is_at_end_of_level(self):
         if self.ycor() > FINISH_LINE_Y:
@@ -23,6 +25,7 @@ class Player(Turtle):
             return True
         else:
             return False
+
 
     def return_to_start_pos(self):
         self.goto(STARTING_POSITION)
