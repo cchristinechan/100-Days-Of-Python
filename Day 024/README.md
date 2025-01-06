@@ -11,3 +11,4 @@
 - How to Open, Read, and Write to Files using the "with" Keyword
 - Read and write the High Score to a File in Snake
 - Relative and Absolute File Paths
+- Using file.readlines(), string.replace() and string.strip()
