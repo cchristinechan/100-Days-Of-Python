@@ -37,8 +37,8 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 21:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20021) Build the Snake Game Part 2: Inheritance & List Slicing
 - [Day 22:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20022) Build Pong: The Famous Arcade Game
 - [Day 23:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20023) The Turtle Crossing Capstone Project
-- Day 24: Files, Directories and Paths
-- Day 25: Working with CSV Data and the Pandas Library
+- [Day 24:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20024) Files, Directories and Paths
+- [Day 25:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20025) Working with CSV Data and the Pandas Library
 - Day 26: List Comprehension and the NATO Alphabet
 - Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
 - Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
