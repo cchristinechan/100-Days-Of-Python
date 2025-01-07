@@ -22,7 +22,7 @@ def display_state_on_map(user_answer):
     # .item() grabs the first element in the Panda Series, in our case we only have 1 value
     new_turtle.goto(state_row.x.item(), state_row.y.item())
     new_turtle.write(user_answer, align="center", font=FONT)
-    guessed_states.append(new_turtle)
+    guessed_states.append(user_answer)
 
 
 while len(guessed_states) < 50:
@@ -36,5 +36,5 @@ while len(guessed_states) < 50:
         new_data = pandas.DataFrame(states_to_learn_list)
         new_data.to_csv("states_to_learn.csv")
         break
-    if answer_state in states_list:
+    if answer_state in states_list and answer_state not in guessed_states:
         display_state_on_map(answer_state)
