@@ -39,7 +39,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 23:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20023) The Turtle Crossing Capstone Project
 - [Day 24:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20024) Files, Directories and Paths
 - [Day 25:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20025) Working with CSV Data and the Pandas Library
-- Day 26: List Comprehension and the NATO Alphabet
+- [Day 26:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20026) List Comprehension and the NATO Alphabet
 - Day 27: Tkinter, *args, **kwargs and Creating GUI Programs
 - Day 28: Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - Day 29: Building a Password Manager GUI App with Tkinter
