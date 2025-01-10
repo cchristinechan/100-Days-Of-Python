@@ -1,4 +1,5 @@
 # Day 10 - Functions with Outputs
+
 ## 🧮Project 10: Calculator
 ### Main functionality
 - Program asks the user to type:
