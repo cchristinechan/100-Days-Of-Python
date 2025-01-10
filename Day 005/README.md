@@ -1,4 +1,5 @@
 # Day 5 - Python Loops
+
 ## 🖱️Project 5: Password Generator
 The program will ask:
 - How many letters would you like in your password?
