@@ -42,7 +42,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 26:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20026) List Comprehension and the NATO Alphabet
 - [Day 27:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20027) Tkinter, *args, **kwargs and Creating GUI Programs
 - [Day 28:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
-- Day 29: Building a Password Manager GUI App with Tkinter
+- [Day 29:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20029) Building a Password Manager GUI App with Tkinter
 - Day 30: Errors, Exceptions and JSON Data: Improving the Password Manager
 - Day 31: Flash Card App Capstone Project
 
