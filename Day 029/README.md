@@ -1,7 +1,7 @@
 # Day 29 - Building a Password Manager GUI App with Tkinter
 
 ## 🔡Project 29: Password Manager
-- Create a program called MyPass, a password manager, to store and generate passwords.
+- Create a password manager called MyPass that stores and generates passwords.
 
 ## ▶️Concepts Practised
 - Working with Images and Setting up the Canvas
