@@ -1,7 +1,6 @@
 # Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
 
 ## 🔡Project 30: Improved Password Manager
-- 
 
 ## ▶️Concepts Practised
 - Catching Exceptions: The try catch except finally Pattern
