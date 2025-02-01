@@ -1,5 +1,4 @@
 # Day 30 - Errors, Exceptions and JSON Data: Improving the Password Manager
-
 ## 🔡Project 30: Improved Password Manager
 - Added search function
 - Saving data in JSON format
