@@ -44,7 +44,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 28:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20028) Tkinter, Dynamic Typing and the Pomodoro GUI Application
 - [Day 29:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20029) Building a Password Manager GUI App with Tkinter
 - [Day 30:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20030) Errors, Exceptions and JSON Data: Improving the Password Manager
-- Day 31: Flash Card App Capstone Project
+- [Day 31:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20031) Flash Card App Capstone Project
 
 ### 📚Intermediate+
 - Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
