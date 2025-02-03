@@ -47,7 +47,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 - [Day 31:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20031) Flash Card App Capstone Project
 
 ### 📚Intermediate+
-- Day 32: Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
+- [Day 32:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - Day 33: API Endpoints & API Parameters - ISS Overhead Notifier
 - Day 34: API Practice - Creating a GUI Quiz App
 - Day 35: Keys, Authentication & Environment Variables: Send SMS
