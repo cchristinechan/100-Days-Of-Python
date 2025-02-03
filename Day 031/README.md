@@ -1,6 +1,6 @@
 # Day 31 - Flash Card App Capstone Project
 
-# 🗂️Project 31: Flash Card App
+## 🗂️Project 31: Flash Card App
 - This Flash Card Program uses the top 100 most frequently used French words
 - Firstly, the French word is displayed on screen
 - If the user knows the answer, they should press the tick button
