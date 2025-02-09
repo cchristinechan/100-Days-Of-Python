@@ -49,7 +49,7 @@ Welcome to this repository which contains all completed projects by Christine Ch
 ### 📚Intermediate+
 - [Day 32:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20032) Send Email (smtplib) & Manage Dates (datetime) - Automated Birthday Wisher
 - [Day 33:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20033) API Endpoints & API Parameters - ISS Overhead Notifier
-- Day 34: API Practice - Creating a GUI Quiz App
+- [Day 34:](https://github.com/cchristinechan/100-Days-Of-Python/tree/main/Day%20034) API Practice - Creating a GUI Quiz App
 - Day 35: Keys, Authentication & Environment Variables: Send SMS
 - Day 36: Stock Trading News Alert Project
 - Day 37: Habit Tracking Project: API Post Requests & Headers
