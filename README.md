@@ -1,5 +1,5 @@
 # 💻100 Days of Code: The Complete Python Pro Bootcamp
-Welcome to this repository which contains all completed projects by Christine Chan for the completion of the [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) taught by Angela Yu.
+Welcome to this repository which contains all completed projects by Christine Chan for the completion of the [100 Days of Python Udemy Course](https://www.udemy.com/course/100-days-of-code/) taught by Dr. Angela Yu.
 
 ![cover-python-bootcamp](https://github.com/user-attachments/assets/69effde2-1ccd-44ab-8750-dff47094f598)
 
